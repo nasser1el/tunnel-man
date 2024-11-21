@@ -9,5 +9,5 @@ You can run this line of code from the executable directory on any Windows machi
 ```
 ./TunnelMan.exe
 ```
+![Tunnel-Man-Demo-2x-GIF](https://github.com/user-attachments/assets/83347b01-a7c3-4e4d-9b8a-5f17528df3a0)
 
-https://github.com/user-attachments/assets/5f3b9a87-a1ed-4207-809b-6c6bd563bfc2
